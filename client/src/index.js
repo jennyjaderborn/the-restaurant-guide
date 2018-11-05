@@ -16,6 +16,5 @@ ReactDOM.render(
         <App />
     </Provider>,
     document.getElementById('root'));
-registerServiceWorker();
 
 export default store;
